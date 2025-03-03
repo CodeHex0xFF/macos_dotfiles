@@ -1,0 +1,20 @@
+# yabai layout command
+shift + lalt - x : yabai -m space --mirror x-axis
+shift + lalt - y : yabai -m space --mirror y-axis
+
+shift + lalt - s : yabai -m window --insert east;  skhd -k "cmd - n"
+shift + lalt - v : yabai -m window --insert south; skhd -k "cmd - n"
+
+alt - h : yabai -m window --focus west
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - l : yabai -m window --focus east
+
+shift + alt - h : yabai -m window --swap west
+shift + alt - j : yabai -m window --swap south
+shift + alt - k : yabai -m window --swap north
+shift + alt - l : yabai -m window --swap east
+
+
+shift + alt - f : yabai -m window --toggle zoom-fullscreen
+ctrl + alt - t : kitty /Users/hongdayu

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorCMakeTools>
+<!-- Written by QtCreator 15.0.1, 2025-02-28T14:17:59. -->
+<qtcreator>
+ <data>
+  <variable>CMakeTools.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="AutoCreateBuildDirectory">false</value>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/Volumes/macbookdisk/Qt6/Tools/CMake/CMake.app/Contents/MacOS/CMake</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">CMake 3.30.5 (Qt)</value>
+   <value type="QString" key="Id">qt.tools.cmake</value>
+   <value type="QString" key="QchFile">/Volumes/macbookdisk/Qt6/Tools/CMake/CMake.app/Contents/doc/cmake/CMake.qch</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>CMakeTools.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="AutoCreateBuildDirectory">false</value>
+   <value type="bool" key="AutoDetected">true</value>
+   <value type="QString" key="Binary">/opt/homebrew/bin/cmake</value>
+   <value type="QString" key="DetectionSource"></value>
+   <value type="QString" key="DisplayName">System CMake at /opt/homebrew/bin/cmake</value>
+   <value type="QString" key="Id">{9dc5cb67-cb34-4e68-bf7d-f63c76b1d4cb}</value>
+   <value type="QString" key="QchFile"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>CMakeTools.Count</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>CMakeTools.Default</variable>
+  <value type="QString">{9dc5cb67-cb34-4e68-bf7d-f63c76b1d4cb}</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">1</value>
+ </data>
+</qtcreator>
